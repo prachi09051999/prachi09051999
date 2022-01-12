@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prachi09051999
 - 👀 I’m interested in FrontEnd Technologies.
-- 🌱 I’m currently learning React right now.
+- 🌱 I’m currently learning React.
 - 📫 You can reach me on my email id "prachitripathi09051999@gmail.com".
 
 <!---

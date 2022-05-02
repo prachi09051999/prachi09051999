@@ -19,5 +19,5 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
 <p align="center"><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prachi09051999&show_icons=true&locale=en&layout=compact" alt="prachi09051999" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prachi09051999&show_icons=true&locale=en&layout=compact" alt="prachi09051999" /></p><br><br>
  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prachi09051999&show_icons=true&locale=en" alt="prachi09051999" /></p>

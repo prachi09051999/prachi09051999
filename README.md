@@ -1,7 +1,7 @@
  <h1 align="center">👋 Hi, I’m <i>Prachi Tripathi</i></h1>
 <h2 align="center"> I’m a <i>Web Developer</i> and a <i>Coder</i></h2>
  📫 You can send me a mail to <a href = "mailto: prachitripathi09051999@gmail.com">prachitripathi09051999@gmail.com.</a><br>
- 🎲 Try this one - <b>Pig Role Dice Game<b> -> https://role-the-dice.netlify.app/
+ 🎲 Try this one - <b>Pig Role Dice Game<b> -> https://role-the-dice.netlify.app/ <br>
  🚀 For Fun - https://skyline.github.com/prachi09051999/2021
   <h3 align="center">Connect with me:</h3>
    <p align="center">

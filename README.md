@@ -2,6 +2,7 @@
 <h2 align="center"> I’m a <i>Web Developer</i> and a <i>Coder</i></h2>
  📫 You can send me a mail to <a href = "mailto: prachitripathi09051999@gmail.com">prachitripathi09051999@gmail.com.</a><br>
  🎲 Try this one - <b>Pig Role Dice Game<b> -> https://role-the-dice.netlify.app/
+ 🚀 For Fun - https://skyline.github.com/prachi09051999/2021
   <h3 align="center">Connect with me:</h3>
    <p align="center">
    <a href="https://www.linkedin.com/in/prachi-tripathi-5b7969175/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prachi-tripathi-5b7969175" height="30" width="40" /></a>

@@ -1,5 +1,6 @@
  <h1 align="center">👋 Hi, I’m <i>Prachi Tripathi</i></h1>
 <h2 align="center"> I’m a <i>Web Developer</i> and a <i>Coder</i></h2>
+<p align="center"><a href="https://app.daily.dev/prachi15"><img src="https://api.daily.dev/devcards/v2/dcMrcVpKVCaJJ5Ak6zM3N.png?type=default&r=6ua" width="356" alt="Prachi's Dev Card"/></a></p>
  📫 You can send me a mail to <a href = "mailto: pt31037@gmail.com">pt31037@gmail.com.</a><br>
  🎲 Try this one - <b>Pig Role Dice Game<b> -> https://role-the-dice.netlify.app/ <br>
  🚀 For Fun - https://skyline.github.com/prachi09051999/2021 <br>
